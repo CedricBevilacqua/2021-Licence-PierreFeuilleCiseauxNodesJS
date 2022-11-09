@@ -1,0 +1,19 @@
+h1, h2 {
+    font-family: 'Arial';
+}
+
+p {
+    font-family: 'Comic Sans MS';
+    font-size: 15px;
+}
+
+li {
+    font-family: 'Gill Sans';
+}
+
+#NumVersion {
+    font-family: 'Gill Sans';
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
